@@ -34,13 +34,15 @@ If you know a better way to implement an algorithm or if you wish to make some a
 
 Content such as spam, promotion or irrelevant posts are not tolerated.
 
+* Language Restriction - C and C++ (Both struct and class implementations of DS is preferable)
+
 * Plagiarism by any means, will not be tolerated.
 
 * Verbal abuse or hate speech is strongly prohibited.
 
 * Make sure your code is understandable and explained with comments.
 
-* Language Restriction - C,C++(OOP preferable)
+
 
 ![Image](https://i.ibb.co/S5qpZ4H/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f64612f38642f32382f64613864323837643263.png)
 

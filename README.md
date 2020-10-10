@@ -30,6 +30,8 @@ If you know a better way to implement an algorithm or if you wish to make some a
 
 * Add the file to the corresponding folder in the repository, if needed you can create a new folder.
 
+* If there's any merge conflicts , it is preferable for the contibutors to resolve it before initmating maintainers.
+
 ## Rules for Contribution:
 
 Content such as spam, promotion or irrelevant posts are not tolerated.
